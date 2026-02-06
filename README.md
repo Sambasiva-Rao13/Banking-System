@@ -39,8 +39,8 @@ This project simulates basic banking operations such as account creation, deposi
 ---
 
 ### Code
-![code1][https://github.com/Sambasiva-Rao13/Banking-System/blob/35f92e18acb973362a043e9e009647b42074ce33/code1.png]
-![code2][https://github.com/Sambasiva-Rao13/Banking-System/blob/35f92e18acb973362a043e9e009647b42074ce33/code2.png]
+![code1](https://github.com/Sambasiva-Rao13/Banking-System/blob/b414a6726fff75b9c80bdcb7d4d773cde749fd6d/Screen%20Shots/Code1.png)
+![code2](https://github.com/Sambasiva-Rao13/Banking-System/blob/b414a6726fff75b9c80bdcb7d4d773cde749fd6d/Screen%20Shots/Code2.png)
 
 ## 📂 Database Structure
 
@@ -60,7 +60,7 @@ This project simulates basic banking operations such as account creation, deposi
 ---
 
 ### Database-Output
-![db][https://github.com/Sambasiva-Rao13/Banking-System/blob/35f92e18acb973362a043e9e009647b42074ce33/database.png]
+![db](https://github.com/Sambasiva-Rao13/Banking-System/blob/b414a6726fff75b9c80bdcb7d4d773cde749fd6d/Screen%20Shots/Database.png)
 
 ## ▶️ How to Run the Project
 
@@ -83,7 +83,7 @@ This project simulates basic banking operations such as account creation, deposi
 Enter Your Choice : <br>
 
 ### Output
-![output][https://github.com/Sambasiva-Rao13/Banking-System/blob/35f92e18acb973362a043e9e009647b42074ce33/output.png]
+![output](https://github.com/Sambasiva-Rao13/Banking-System/blob/b414a6726fff75b9c80bdcb7d4d773cde749fd6d/Screen%20Shots/Output.png)
 
 <br>
 👨‍💻 Author
