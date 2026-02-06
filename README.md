@@ -68,15 +68,15 @@ This project simulates basic banking operations such as account creation, deposi
 
 ## Sample Output
 
-1.Create Account
-2.Deposit
-3.Withdraw
-4.Delete Account
-5.Exit
-Enter your choice :
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Delete Account
+5. Exit
+Enter Your Choice : 
 
-
+<br>
 👨‍💻 Author
 
-Samba Siva Rao Ch
+Samba Siva Rao Ch <br>
 Aspiring Software Engineer | Python | MySQL | Backend Development
