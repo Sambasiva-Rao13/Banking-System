@@ -72,7 +72,7 @@ This project simulates basic banking operations such as account creation, deposi
 2. Deposit
 3. Withdraw
 4. Delete Account
-5. Exit
+5. Exit <br>
 Enter Your Choice : 
 
 <br>
