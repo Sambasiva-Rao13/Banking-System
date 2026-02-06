@@ -38,6 +38,10 @@ This project simulates basic banking operations such as account creation, deposi
 
 ---
 
+### Code
+![code1][https://github.com/Sambasiva-Rao13/Banking-System/blob/35f92e18acb973362a043e9e009647b42074ce33/code1.png]
+![code2][https://github.com/Sambasiva-Rao13/Banking-System/blob/35f92e18acb973362a043e9e009647b42074ce33/code2.png]
+
 ## 📂 Database Structure
 
 **Database Name:** `pdbc_2_bank`  
@@ -54,6 +58,9 @@ This project simulates basic banking operations such as account creation, deposi
 | balance       | INT           |
 
 ---
+
+### Database-Output
+![db][https://github.com/Sambasiva-Rao13/Banking-System/blob/35f92e18acb973362a043e9e009647b42074ce33/database.png]
 
 ## ▶️ How to Run the Project
 
@@ -73,7 +80,10 @@ This project simulates basic banking operations such as account creation, deposi
 3. Withdraw
 4. Delete Account
 5. Exit <br>
-Enter Your Choice : 
+Enter Your Choice : <br>
+
+### Output
+![output][https://github.com/Sambasiva-Rao13/Banking-System/blob/35f92e18acb973362a043e9e009647b42074ce33/output.png]
 
 <br>
 👨‍💻 Author
